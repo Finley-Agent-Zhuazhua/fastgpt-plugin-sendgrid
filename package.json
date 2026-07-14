@@ -1,0 +1,27 @@
+{
+  "name": "@fastgpt-plugin/sendgrid",
+  "version": "0.1.0",
+  "description": "SendGrid template email delivery and activity status tools for FastGPT",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "npx @fastgpt-plugin/cli build --minify",
+    "build:dev": "npx @fastgpt-plugin/cli build",
+    "check": "npx @fastgpt-plugin/cli check",
+    "pack": "npx @fastgpt-plugin/cli pack",
+    "test": "vitest run",
+    "type-check": "tsc --noEmit"
+  },
+  "engines": {
+    "node": ">=22",
+    "pnpm": ">=10"
+  },
+  "packageManager": "pnpm@10.28.2",
+  "devDependencies": {
+    "@fastgpt-plugin/cli": "0.2.0",
+    "@fastgpt-plugin/sdk-factory": "0.0.1",
+    "typescript": "5.9.3",
+    "vitest": "4.1.10",
+    "zod": "4.4.3"
+  }
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">SendGrid</title>
+  <desc id="desc">A blue envelope with a white SendGrid-style grid mark</desc>
+  <rect width="64" height="64" rx="14" fill="#1a82e2"/>
+  <path d="M10 19.5C10 17.57 11.57 16 13.5 16h37c1.93 0 3.5 1.57 3.5 3.5v25c0 1.93-1.57 3.5-3.5 3.5h-37A3.5 3.5 0 0 1 10 44.5v-25Z" fill="#fff"/>
+  <path d="m12 19 20 16L52 19" fill="none" stroke="#1a82e2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M12 45 26 33.5M52 45 38 33.5" fill="none" stroke="#1a82e2" stroke-width="3" stroke-linecap="round"/>
+  <path d="M43 23h6M43 27h6M43 31h6" stroke="#1a82e2" stroke-width="2" stroke-linecap="round"/>
+</svg>

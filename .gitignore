@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.pkg
+*.tgz
+.env
+.env.*
+.secrets.local.json
+coverage/
